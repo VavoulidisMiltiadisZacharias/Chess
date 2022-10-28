@@ -391,7 +391,7 @@ public class Board extends JPanel
 				tiles[j+getDimensions()*i].setId((j+getDimensions()*i)); //Set the id of each tile
 
 				/* Open the following line to demonstrate tiles' ids */
-				tiles[j+getDimensions()*i].setText(Integer.toString(tiles[j+getDimensions()*i].getId())); //Helping line
+				//tiles[j+getDimensions()*i].setText(Integer.toString(tiles[j+getDimensions()*i].getId())); //Helping line
 		
 				//Set the corresponding colour for each tile
 				if((i%2 == 0) && (j%2 == 0))

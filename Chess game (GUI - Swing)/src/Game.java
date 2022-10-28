@@ -24,7 +24,6 @@ public class Game extends JFrame implements ActionListener
  	private Tile destinationTile; //Destination tile of a move
  	private int numberOfClicksDone = 0; //Helps with the e.getSource(), to define if it is the start or destination tile
  	private boolean isAllowedToMoveAnything = false; //Helps with the king move
- 	
  	int whiteKingPosition = 0;
  	int blackKingPosition = 0;
  	
