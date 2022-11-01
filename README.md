@@ -17,7 +17,7 @@ This project is an implementation of a chess game using the programming language
 <br/>
 
 ### **Setup:**
-*This section will be filled sith useful info soon*.
+*This section will be filled with useful info soon*.
 <br/>
 <br/>
 
