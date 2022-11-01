@@ -38,7 +38,7 @@ Vavoulidis Miltiadis - Zacharias.
 
 ### **Contact:**
 mvavoulidis@gmail.com
-<br\>
+
 In case of any contact me attempt your e-mail has to fulfil the following requirements:
 1. Set e-mail subject as "Chess Java GUI Swing".
 2. Write your name.
