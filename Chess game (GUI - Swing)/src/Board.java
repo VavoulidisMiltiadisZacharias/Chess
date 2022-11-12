@@ -100,18 +100,18 @@ public class Board extends JPanel
 		Tile[] tiles = new Tile[getDimensions()*getDimensions()];
 	
 		//Create the images as imageIcons to represent the pieces 
-		whiteRook = new ImageIcon("White Rook.png").getImage();  
-		whiteKnight = new ImageIcon("White knight.png").getImage();
-		whiteBishop = new ImageIcon("White Bishop.png").getImage();
-		whiteKing = new ImageIcon("White King.png").getImage();
-		whiteQueen = new ImageIcon("White Queen.png").getImage();
-		whitePawn = new ImageIcon("White Pawn.png").getImage();
-		blackRook = new ImageIcon("Black Rook.png").getImage();
-		blackKnight = new ImageIcon("Black knight.png").getImage();
-		blackBishop = new ImageIcon("Black Bishop.png").getImage();
-		blackKing = new ImageIcon("Black King.png").getImage();
-		blackQueen = new ImageIcon("Black Queen.png").getImage();
-		blackPawn = new ImageIcon("Black Pawn.png").getImage();	
+		whiteRook = new ImageIcon("D:\\Github local repositories\\Chess\\Chess game (GUI - Swing)\\Photos\\White Rook.png").getImage();  
+		whiteKnight = new ImageIcon("D:\\Github local repositories\\Chess\\Chess game (GUI - Swing)\\Photos\\White Knight.png").getImage();
+		whiteBishop = new ImageIcon("D:\\Github local repositories\\Chess\\Chess game (GUI - Swing)\\Photos\\White Bishop.png").getImage();
+		whiteKing = new ImageIcon("D:\\Github local repositories\\Chess\\Chess game (GUI - Swing)\\Photos\\White King.png").getImage();
+		whiteQueen = new ImageIcon("D:\\Github local repositories\\Chess\\Chess game (GUI - Swing)\\Photos\\White Queen.png").getImage();
+		whitePawn = new ImageIcon("D:\\Github local repositories\\Chess\\Chess game (GUI - Swing)\\Photos\\White Pawn.png").getImage();
+		blackRook = new ImageIcon("D:\\Github local repositories\\Chess\\Chess game (GUI - Swing)\\Photos\\Black Rook.png").getImage();
+		blackKnight = new ImageIcon("D:\\Github local repositories\\Chess\\Chess game (GUI - Swing)\\Photos\\Black Knight.png").getImage();
+		blackBishop = new ImageIcon("D:\\Github local repositories\\Chess\\Chess game (GUI - Swing)\\Photos\\Black Bishop.png").getImage();
+		blackKing = new ImageIcon("D:\\Github local repositories\\Chess\\Chess game (GUI - Swing)\\Photos\\Black King.png").getImage();
+		blackQueen = new ImageIcon("D:\\Github local repositories\\Chess\\Chess game (GUI - Swing)\\Photos\\Black Queen.png").getImage();
+		blackPawn = new ImageIcon("D:\\Github local repositories\\Chess\\Chess game (GUI - Swing)\\Photos\\Black Pawn.png").getImage();	
 		
 		
 		//Create the pieces
